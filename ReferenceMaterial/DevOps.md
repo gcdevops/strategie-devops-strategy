@@ -19,3 +19,11 @@ Accelerate: The Science of Lean Software and DevOps
 Project Retrospectives: A Handbook for Team Reviews by Norm Kerth
 
 [Blame Aware Post Mortems](https://techbeacon.com/blameless-postmortems-dont-work-heres-what-does) by J. Paul Reed (based on Project Retrospectives above) 
+
+Accelerate: The Science of Lean Software and DevOps
+
+Project Retrospectives: A Handbook for Team Reviews by Norm Kerth
+
+[Blame Aware Post Mortems](https://techbeacon.com/blameless-postmortems-dont-work-heres-what-does) by J. Paul Reed (based on Project Retrospectives above) 
+
+The Phoenix Project by Gene Kim

@@ -20,6 +20,7 @@ In the same spirit, our method below aims to make better use of existing resourc
 ## Method 
 
 Through leveraging existing communities and expertise managers should allow their team members (including students) to 
+
 	- Participate in collaborative working groups as part of their work 
 	- Allow them to contribute to a short term project required by a team under separate management 
 
