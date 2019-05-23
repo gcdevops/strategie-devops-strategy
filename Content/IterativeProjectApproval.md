@@ -1,4 +1,4 @@
-﻿## Sequential Proposal Approach
+## Sequential Proposal Approach
 
 ## Table of Contents
 - Background and intent 
