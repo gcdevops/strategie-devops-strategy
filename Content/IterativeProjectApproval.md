@@ -1,12 +1,14 @@
 ﻿## Sequential Proposal Approach
 
 ## Table of Contents
-- Executive summary of the iterative proposal approach 
+- Background and intent 
 - Details of IT Project phases
 - Details of sequential proposal approach 
 - References
 
-## Executive summary of the iterative proposal approach
+## Background and intent
+
+In the past, IT initiatives proposals were planned for a 5/10 year implementation cycle with total costs of the initiatives running over $1 billion easily. While this may seem like a prudent choice, the technological evolution is happening at a much faster rate. Recent examples have proved that the total costs of IT projects are difficult to gauge and there may be unforeseeable challenges in the implementation over a long run.
 
 Prior experience teaches that IT projects are better delivered when implemented in a phased manner. Each sequential phase delivering the next product version, implementing improved functionality and upgrades.
 
