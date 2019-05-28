@@ -1,17 +1,20 @@
-## Summary 
+## Existing literature
 
-ESDC's Developer Community has promoted GCCode as their preferred solution for a standardized source control.  
-http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation
+1. ESDC's Developer Community has [written an article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GCCode as their preferred solution for a standardized source control. The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada 
 
-The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada 
+2. [A wiki article](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standarized source control solution and makes a case for GCCode. The proposed initiative from the article is an integration of GCcode within the GCTools suite
 
 ## Background 
 
-The use of source control is a foundational tool for development. As IT infrastructure and processes become ever more complex, new tools and roles are emerging. Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application. In order to properly leverage this modern approach, a shared source control instance is vital. Many opportunities present themselves for individual departments (reference the ESDC Development Community's GC Code Recommendation article), though for the Government of Canada as a whole as well. With initiatives such as the OneGov movement from TBS, having a collaborative tool with powerful automation features available, will deliver great benefits to our development communities, who are increasingly responsible for ensuring the delivery of modern useable tools to Canadians. 
+The use of source control is a foundational tool for development. As IT infrastructure and processes become ever more complex, new tools and roles are emerging. Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application. In order to properly leverage this modern approach, a shared source control instance is vital. Many opportunities present themselves for individual departments (reference the [ESDC Development Community's GC Code Recommendation article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation)), though for the Government of Canada as a whole as well. With initiatives such as the OneGov movement from TBS, having a collaborative tool with powerful automation features available, will deliver great benefits to our development communities, who are increasingly responsible for ensuring the delivery of modern useable tools to Canadians. By providing a common place to develop and share development projects and solutions, there is an opportunity to reuse the same platform across departments in most cases. Presently many redundancies exist within departments as they each host and support local instances of varying source control solutions. 
+
 
 ## Situation 
 
 GCCode is a instance of [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/), free open source software (FOSS) under the MIT licence, hosted by Shared Services Canada (SSC). GCCode is currently supported by SSC with a "when time permits" policy. It runs on production servers and has backups and recives simi-regular updates. GCCode is currently only avalibe within the GoC Intranet, which does block the solution from access 3rd party add-ons and some native features. A number of departments are already storing a large amount of source code on GCCode as their main source control solution. 
+
+
+## Business case 
 
 ### Improved Feature Support
 
@@ -31,6 +34,10 @@ With funding for the [GitLab Enterpise Eddition (EE)](https://gitlab.com/gitlab-
 ## Potential Funding Options
 
 SSC and PSPC-Digital Services Branch are two Departments mandated with providing these types of services to other Government Departments, however both SSC and PSPC-DSB exist within a cost recovery funding model. In order to move forward on this recomendation, it is likely that we will need to identify Departments interested in providing resources to support this recomendatiion. Below are some potential options:
+
+- Each department which leverages GCCode provides one employee who is responsible one day a week to contribute towards the maintenance and constant improvement of the GitLab instance 
+
+- A flat fee per user per department is charged to those departments using the service
 
 ## Supporting members
 
