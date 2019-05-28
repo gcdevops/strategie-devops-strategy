@@ -28,10 +28,15 @@ With the tool exposed to the internet, there are a few other features that could
 
 With funding for the [GitLab Enterpise Eddition (EE)](https://gitlab.com/gitlab-org/gitlab-ee), even more features could be avaliable. The [feature list](https://about.gitlab.com/pricing/self-managed/feature-comparison/) details the improvements avaliable.
 
-## Support
+## Potential Funding Options
+
+SSC and PSPC-Digital Services Branch are two Departments mandated with providing these types of services to other Government Departments, however both SSC and PSPC-DSB exist within a cost recovery funding model. In order to move forward on this recomendation, it is likely that we will need to identify Departments interested in providing resources to support this recomendatiion. Below are some potential options:
+
+## Supporting members
 
 | Department  	| Name  		| Title 			 	|
 |---		|---			|---					|
 | ESDC  	| Jayson McIntosh  	| Acting Manager / Technical Advisor  	|
 | ESDC		| Remy Bernard		| Manager (on interchange)		|
 | ESDC | Shaun Laughland | Programmer Analyst |
+| PSPC | Brittany Hurley | Technical Advisor |
