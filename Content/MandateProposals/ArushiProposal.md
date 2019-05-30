@@ -27,9 +27,9 @@ _Future role of ESDC_: Role of technology in human lives is redesigning the way 
 ~~Planning ahead will help Canada to respond and stay ahead of the technological curve rather than react to the changes around us.~~ In pursuit of improving quality of life for Canadians, ESDC needs to manage these changes in society and provide a support structure to prepare Canadians towards unprecedented risks and disruption from global participants. 
 ~~To safeguard the needs of Canadians and continuously improve their quality of life, ESDC should anticipate the needs and challenges of the future. ESDC should be prepared to redesign its programs and services to stay ahead to meet the changing needs of Canadians. ESDC should keep an open mind towards radical transformation of its program and service delivery practices to keep pace with the technological advances and prepare Canadians to take on more centric roles in the digital economy.~~
 
-Mainstream economics has worked on the theory of scarcity … and now with the abundance of information around there is a shift seen in the commoditization of the digital goods/services … An economic system of abundance
+_Mainstream economics has worked on the theory of scarcity … and now with the abundance of information around there is a shift seen in the commoditization of the digital goods/services … An economic system of abundance
 Universal access to information 
-Employment and education pegged on skills and interests
+Employment and education pegged on skills and interests_
 
 
 _Existing challenges in implementation_:
@@ -37,18 +37,6 @@ _Existing challenges in implementation_:
 -	At a global stage, innovation is outpacing regulation, so Canadian laws and regulations around technology use may need to be redefined 
 -	Data and information sharing may need to be revisited to address current privacy and security debates   
 
-~~## Vision of the branch
-Strategic planning and implementation of technology-oriented service delivery to fulfil ESDC’s mission of building a stronger, competitive and more inclusive Canada, and improving Canadians’ quality of life 
-Towards (i) strategic implementation of network architecture and management of digital products to fulfil government’s aspiration of transforming service delivery and (ii) preparation for future adoption of AI for autonomous decision-making and service delivery~~
-
-~~## Priorities
-- Governance focus include:
-     ~~*	Design principles for IT governance (_could introduce a new bimodal governance structure here_)~~
-     ~~*	Investment and priorities (_will help create a new category of exploratory projects_)~~
-     ~~*	Architecture (_prepare for the future, HDLC?_)~~
-     ~~*	Infrastructure use (_manage resources, coordinate between departments_)~~
-     ~~*	Client needs (_transform service delivery through adoption of advanced technologies_)~~
-     ~~*	Client engagement (_collect feedback and develop trust among citizen for use of data_)~~    
 
 ## Mandate
 Our mandate is to architect and support implementation of a secure foundation of transformational technology to fulfil ESDC’s envision of human-centric service delivery in renewed social fabric, and forge a trust relationship among Canadians 
@@ -58,7 +46,8 @@ Our mandate is to architect and support implementation of a secure foundation of
 ## Priorities of the branch
 -	(STRATEGY) Envisioning and architecting a secure and central system to lay the foundation for digital transformation  
 -	(STRATEGY & PRIORITY) Providing foresight and prioritising investment on transformational service delivery programs   
--	(STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps  
+- 	(POLICY) Forge social partnerships with private sector for utilizing their business expertise and information to meet service delivery goals  	  
+- (STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps  
 -	(POLICY) Initiate dialogues to continuously evolve on using next-generation technologies   
 -	(POLICY) Recommend governing guidelines for the use of data and technologies   
 -	(RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices  
