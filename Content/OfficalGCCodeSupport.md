@@ -13,6 +13,23 @@ The use of source control is a foundational tool for development. As IT infrastr
 
 GCCode is a instance of [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/), free open source software (FOSS) under the MIT licence, hosted by Shared Services Canada (SSC). GCCode is currently supported by SSC with a "when time permits" policy. It runs on production servers and has backups and recives simi-regular updates. GCCode is currently only avalibe within the GoC Intranet, which does block the solution from access 3rd party add-ons and some native features. A number of departments are already storing a large amount of source code on GCCode as their main source control solution. 
 
+### GCCode Stats
+
+**As of May 29th, 2019** GCCode has a record of:
+<!-- not all stats may be needed for this, but listing them all for now -->
+* 3,614 projects
+* 2,998 users
+* 2,996 active users
+* 507 groups
+* 317 forks
+* 741 milestones
+* 17,280 issues
+* 8,778 merge requests
+* 155,596 notes
+* 394 snippets
+* 300 SSH Keys
+* 50 distinct email domains (aka GC Organizations)
+
 
 ## Business case 
 
