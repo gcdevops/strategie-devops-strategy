@@ -70,3 +70,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | PSPC | Brittany Hurley | Technical Advisor |
 | ESDC | François Brillant | Director |
 | SSC | Mathieu Fortin | Director, Partner Enterprise Architecture Liaison |
+| IRCC | Luc Schulz | Business Solutions |
