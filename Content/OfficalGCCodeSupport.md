@@ -73,4 +73,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | IRCC | Luc Schulz | Business Solutions |
 | TBS | Roy Saavedra | Research Analyst |
 | TC | Vivian Nobrega | Technical Advisor |
-
+| CRA | Nikhil Sebastian | A/IT Specialist |
