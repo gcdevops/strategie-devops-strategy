@@ -72,3 +72,5 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | SSC | Mathieu Fortin | Director, Partner Enterprise Architecture Liaison |
 | IRCC | Luc Schulz | Business Solutions |
 | TBS | Roy Saavedra | Research Analyst |
+| TC | Vivian Nobrega | Technical Advisor |
+
