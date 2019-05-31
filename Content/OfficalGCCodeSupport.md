@@ -1,3 +1,6 @@
+## Purpose
+To bring [GCCode](https://gccode.ssc-spc.gc.ca) as an officially supported source control solution within the Government of Canada's developer community.
+
 ## Existing literature
 
 1. ESDC's Developer Community has [written an article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GCCode as their preferred solution for a standardized source control. The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada 
