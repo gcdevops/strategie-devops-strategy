@@ -63,4 +63,5 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | ESDC  	| Jayson McIntosh  	| Acting Manager / Technical Advisor  	|
 | ESDC		| Remy Bernard		| Manager (on interchange)		|
 | ESDC | Shaun Laughland | Programmer Analyst |
+| ESDC | Eric Wu | Technical Advisor |
 | PSPC | Brittany Hurley | Technical Advisor |
