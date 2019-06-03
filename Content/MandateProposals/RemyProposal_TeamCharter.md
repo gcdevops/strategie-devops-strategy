@@ -36,14 +36,20 @@ The agreed-on value of the IT Strategy practice for the next year will be in ass
 - An ESDC IT Strategy
 - A set of recommendations on IITB organization design to move IITB as a service-oriented organization
 - A set of recommendations on ESDC governance models with a focus on innovation support
-- Proposals on adoption of new technologies to support digital business
+- Proposals on adoption of new technologies to support digital business,and guidance on their ethical use
+- A set of recommendations on ESDC's service delivery transformation to move to a digital service organization
 
 ### Metrics
 | Objective | Metric | Proposed Date |
 |---|---|---|
 |Team Mandate|Team Mandate statement approved by ESDC CIO|July 28, 2019|
 |IT Strategy Capability|ConOps and Strategy Playbook|Nov 1, 2019|
-|ESDC Horizon Diagnostic|Report on the government of canada's horizon landscape and how it will disrupt ESDC's service offering|Jan 1, 2020|
+|ESDC Horizon Diagnostic|Report on the government of canada's digital horizon landscape and how it will disrupt ESDC's service offering|Jan 1, 2020|
+|IT Strategy||TBD|
+|Architectural and Governance models for innvation|Architectural support for bimodal approach agreed on at the ARB. PMO governance agreeing to bimodal approach|TBD|
+|Technology innovation model|Number of IT Standards changes to reflecting modern DevOps practices|TBD|
+|Team Dynamics|Number of releases going to production per months|TBD|
+|Service Oriented|Number of foundational elements produced by IITB, supported by ARB and used by the Solution Architecture team|TBD|
 
 ## Scope
 The scope of the IT Strategy team will be applicable across the entire organization and framed by 
@@ -62,7 +68,19 @@ The primary focus of the IT Strategy team will be in support of business outcome
 
 ## Governance and Assurance
 ### Governance
-The governance of the IT Strategy will be directed by the Director General of Strategy, Architecture, and Business Relations. 
+The governance of the IT Strategy will be generally directed by the Director General of Strategy, Architecture, and Business Relations (SABR). More specific directions will come from community engagement, TBS Digital Policy, ESDC Service Transformation Goals, and industry foresight.
+
+The team will engage periodically with the following communities:
+- GCDevOps
+- ESDC IT Research
+- ...
+
+The decisions will be made based on peer-reviewed of artefacts and ratification of such artefacts by the DG Strategy, Architecture, and Business Relations.
 
 ### Assurance
+The IT Strategy team will act as change agents to initiate the execution of the IT Strategies, identifying resistance and opportunities. IT Strategies will have considered the organizational current culture. Where resistance to change falls outside of the team's authority, escalation to the DG SABR will be used via briefing notes identifying the issue and recommendations.
+
+Community engagement and relationships will be key to the success of IT Strategies. The team will foster strong relationship with the communities mentioned above to seek broad community support (bottom up approach) before strategies can be proposed to senior management (top down approach).
+
+The IT Strategy team will assure it does not fall within the ivory tower trap by adhering to the concept of [the strategy is getting it done](https://twitter.com/AlexBenay/status/962712226741268480) and developing strategies for carving out space for the community to innovate.
 
