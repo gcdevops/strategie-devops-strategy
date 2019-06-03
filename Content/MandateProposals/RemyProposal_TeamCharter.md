@@ -29,12 +29,21 @@ responsive, resilient, and omnipresent digital service provider. IT Strategies a
 technologies in order to move towards this target state vision. 
 
 ## Objectives and metrics
-### Target business outcomes
-The value proposition for the IT Strategy practice will be in assisting in the delivery of the following business outcomes:
+### Objectives and Value Proposition
+The agreed-on value of the IT Strategy practice for the next year will be in assisting IITB in delivering the following in support of the business outcomes: 
 
-- A set of
+- An established team mandate that is approved by the CIO
+- An ESDC IT Strategy
+- A set of recommendations on IITB organization design to move IITB as a service-oriented organization
+- A set of recommendations on ESDC governance models with a focus on innovation support
+- Proposals on adoption of new technologies to support digital business
 
-### Metrics of the team's success
+### Metrics
+| Objective | Metric | Proposed Date |
+|---|---|---|
+|Team Mandate|Team Mandate statement approved by ESDC CIO|July 28, 2019|
+|IT Strategy Capability|ConOps and Strategy Playbook|Nov 1, 2019|
+|ESDC Horizon Diagnostic|Report on the government of canada's horizon landscape and how it will disrupt ESDC's service offering|Jan 1, 2020|
 
 ## Scope
 The scope of the IT Strategy team will be applicable across the entire organization and framed by 
