@@ -46,6 +46,7 @@ Our mandate is to architect and support implementation of a secure foundation of
 -	(POLICY) Recommend governing guidelines for the use of data and technologies 
 -	(INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
 -	(RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs 
+- Provincial cooperation?
 
 ## Activities
 **_Policy and strategy development_**
