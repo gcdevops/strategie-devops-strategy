@@ -79,3 +79,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | PSC | Md Alam | Middleware Operations |
 | DFO | Daniel Ricard | Senior Biologist |
 | SSC | Jeff Barnes | Senior Advisor |
+| DFO | David Fishman | Data Manager |
