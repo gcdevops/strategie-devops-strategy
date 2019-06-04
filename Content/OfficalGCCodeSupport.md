@@ -96,3 +96,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | NRCan | Todd McDonald | Senior Programmer |
 | TBS | Guillaume Charest | Advisor, Open Source Software |
 | ESDC		| Terry Doerksen		| Programmer Analyst		|
+| ESDC | Calvin Rodo | Senior Advisor - Application Development
