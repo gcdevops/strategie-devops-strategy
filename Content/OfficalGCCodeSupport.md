@@ -1,4 +1,4 @@
-## Purpose
+﻿## Purpose
 To bring [GCCode](https://gccode.ssc-spc.gc.ca) as an officially supported source control solution within the Government of Canada's developer community.
 
 ## Existing literature
@@ -50,6 +50,18 @@ With the tool exposed to the internet, there are a few other features that could
 * **[Repository mirroring](https://docs.gitlab.com/ce/workflow/repository_mirroring.html)** could be enabled for multi-government and citizen collaboration.
 
 With funding for the [GitLab Enterprise Edition (EE)](https://gitlab.com/gitlab-org/gitlab-ee), even more features could be available. The [feature list](https://about.gitlab.com/pricing/self-managed/feature-comparison/) details the improvements available.
+
+### Why GCCode and not GitHub?
+There are arguments to support the adoption of GitHub over GCCode. Mainly:
+
+* **Leveraging the GitHub's infrastructure**. The GC will not be able to compete with GitHub's resources and its ability to stay current, so it would be best to use GitHub from the get go and inherit its sustainability capability.
+* **Work in complete openness**. GitHub allows GC employees to work in complete openness with the rest of the world. Turning repositories private only when needed.
+
+However, this proposal counters these arguments to the favour of GCCode for the following reasons:
+* **Contribute to [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/)**. Having a hosted version of GitLab allows the GC to contribute more directly to the GitLab open source project. 
+* **Increase comfort level to openness**. Some GC employees and IT Security personnel are currently reluctant to use GitHub due to security risks (e.g. [accidently adding sensitive information like API keys in the repos](https://www.theregister.co.uk/2018/02/07/uber_quit_github_for_custom_code_after_2016_data_breach/)). Using GCCode is expected to augment the GC developer's community best practices around source control and, as such, increase assurance around management and IT Security personnel for open source project meant to be released to the public.
+* **Vendor lock in risk management**. GitHub roadmap is determined based on industry funding, not by the GC's interests. Having it's own GitLab instance reduces vendor lock in by allowing GitHub repositories a second home.
+
 
 ## Potential Funding Options
 
