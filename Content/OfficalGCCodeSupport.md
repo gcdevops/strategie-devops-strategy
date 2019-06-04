@@ -82,3 +82,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | DFO | David Fishman | Data Manager |
 | CEDQ | Sebastien Metivier | Team Lead - Integration |
 | NRCan | Todd McDonald | Senior Programmer |
+| TBS | Guillaume Charest | Advisor, Open Source Software |
