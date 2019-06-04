@@ -97,3 +97,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | TBS | Guillaume Charest | Advisor, Open Source Software |
 | ESDC		| Terry Doerksen		| Programmer Analyst		|
 | ESDC | Calvin Rodo | Senior Advisor - Application Development
+| DFO | Diana McHugh | Stock Assessment Biologist |
