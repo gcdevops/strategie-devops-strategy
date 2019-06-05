@@ -99,3 +99,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | ESDC		| Terry Doerksen		| Programmer Analyst		|
 | ESDC | Calvin Rodo | Senior Advisor - Application Development
 | DFO | Diana McHugh | Stock Assessment Biologist |
+| ESDC | Josée Paquette | Programmer Analyst |
