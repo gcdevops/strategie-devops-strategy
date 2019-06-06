@@ -12,7 +12,7 @@ The latest updates to the Directive on Management of IT have clearly identified 
 
 The use of source code version control is indeed a foundational tool for software development but each department currently manages its own source code independently. Moreso, there are even instances where multiple methods and solutions are in place to manage source code versioning within a single organisation.
 
-However, as IT infrastructure, environments and processes become more complex and abstract, new tools and roles are emerging. Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application, not only through the coding phase.
+However, as IT infrastructure, environments and processes become more complex and abstract, new tools and roles are emerging. Information Technology world leaders and best pracdo sotices promote the use of automation and development tools throughout the lifecycle of an application, not only through the coding phase.
 In order to properly leverage this modern approach, a decentralized version control system with collaborative capabilities is vital.
 
 Many opportunities present themselves for individual departments (reference the [ESDC Development Community's GC Code Recommendation article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation)), though for the Government of Canada as a whole as well.
