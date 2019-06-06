@@ -1,17 +1,10 @@
 ﻿## Purpose
-To bring [GCCode](https://gccode.ssc-spc.gc.ca) as an officially supported source control solution within the Government of Canada's developer community.
 
-## Existing literature
+To recommend the adoption of a decentralized version control system for all IT personnel in order to enable wider collaboration within the Government of Canada as well as adopt advanced and modern DevOps capabilities.
 
-1. ESDC's Developer Community has [written an article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GCCode as their preferred solution for a standardized source control.
-The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada 
+## Context
 
-2. [A wiki article](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standardized source control solution and makes a case for GCCode.
-The proposed initiative from the article is an integration of GCcode within the GCTools suite
-
-## Background 
-
-The use of source control is a fotoundational tool for development.
+The use of source code version control is a foundational tool for software development.
 As IT infrastructure and processes become ever more complex, new tools and roles are emerging.
 Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application.
 In order to properly leverage this modern approach, a shared source control instance is vital.
@@ -19,6 +12,17 @@ Many opportunities present themselves for individual departments (reference the 
 With initiatives such as the OneGov movement from TBS, having a collaborative tool with powerful automation features available, will deliver great benefits to our development communities, who are increasingly responsible for ensuring the delivery of modern useable tools to Canadians.
 By providing a common place to develop and share development projects and solutions, there is an opportunity to reuse the same platform across departments in most cases.
 Presently many redundancies exist within departments as they each host and support local instances of varying source control solutions.
+
+## Existing literature
+
+1. ESDC's Developer Community has [written an article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GCCode as their preferred solution for a standardized source control.
+The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada 
+2. [A wiki article](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standardized source control solution and makes a case for GCCode.
+The proposed initiative from the article is an integration of GCcode within the GCTools suite
+3. The Government of Canada Open Source Advisory Board started writing a business case for a Source Code Platform in order to enable 
+
+## Background 
+
 
 ## Situation 
 
@@ -47,6 +51,8 @@ A number of departments are already storing a large amount of source code on GCC
 
 
 ## Business case 
+
+To bring [GCCode](https://gccode.ssc-spc.gc.ca) as an officially supported source control solution within the Government of Canada's developer community.
 
 ### Improved Feature Support
 
