@@ -1,13 +1,20 @@
 ﻿## Purpose
 
-To recommend the adoption of a decentralized version control system for all IT personnel in order to enable wider collaboration within the Government of Canada as well as adopt advanced and modern DevOps capabilities.
+To recommend the adoption of a decentralized version control system for all IT personnel in order to enable wider collaboration within the Government of Canada as well as support advanced and modern DevOps capabilities.
 
 ## Context
 
-The use of source code version control is a foundational tool for software development.
-As IT infrastructure and processes become ever more complex, new tools and roles are emerging.
-Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application.
-In order to properly leverage this modern approach, a shared source control instance is vital.
+The latest updates to the Directive on Management of IT have clearly identified three main requirements changes related to source code management in the GoC:
+
+1. If a custom-built application is the appropriate option, **by default any source code written by the government must be released in an open format via Government of Canada websites and services designated by the Treasury Board of Canada Secretariat** [(C.2.3.8.3)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8.3);
+2. **All source code must be released under an appropriate open source software license** [(C.2.3.8.4)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8.4);
+3. Share code publicly when appropriate, and when not, **share within the Government of Canada** [(C.2.3.9.5)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.9.5).
+
+The use of source code version control is indeed a foundational tool for software development but each department currently manages its own source code independently. Moreso, there are even instances where multiple methods and solutions are in place to manage source code versioning within a single organisation.
+
+However, as IT infrastructure, environments and processes become more complex and abstract, new tools and roles are emerging. Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application, not only through the coding phase.
+In order to properly leverage this modern approach, a decentralized version control system with collaborative capabilities is vital.
+
 Many opportunities present themselves for individual departments (reference the [ESDC Development Community's GC Code Recommendation article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation)), though for the Government of Canada as a whole as well.
 With initiatives such as the OneGov movement from TBS, having a collaborative tool with powerful automation features available, will deliver great benefits to our development communities, who are increasingly responsible for ensuring the delivery of modern useable tools to Canadians.
 By providing a common place to develop and share development projects and solutions, there is an opportunity to reuse the same platform across departments in most cases.
@@ -91,10 +98,10 @@ Having it's own GitLab instance reduces vendor lock in by allowing GitHub reposi
 
 ## Potential Funding Options
 
-SSC and PSPC-Digital Services Branch are two Departments mandated with providing these types of services to other Government Departments, however both SSC and PSPC-DSB exist within a cost recovery funding model.
-In order to move forward on this recommendation, it is likely that we will need to identify Departments interested in providing resources to support this recommendation.
-Below are some potential options:
-
+do soh are two Departments mandated with providing these types of services to other Government Departments, however both SSC and PSPC-DSB exist within a cost recovery funding model.
+do socommendation, it is likely that we will need to identify Departments interested in providing resources to support this recommendation.
+do so
+do so
 - Each department which leverages GCCode provides one employee who is responsible one day a week to contribute towards the maintenance and constant improvement of the GitLab instance
 
 - A flat fee per user per department is charged to those departments using the service
