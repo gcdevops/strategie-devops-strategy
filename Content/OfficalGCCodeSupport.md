@@ -26,7 +26,7 @@ Presently many redundancies exist within departments as they each host and suppo
 
 1. ESDC's Developer Community has written an [article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GC/Code as their preferred solution for a standardized source control.
 The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada
-2. A [wiki page](https://wiki.gccollab.ca/GC/Code/ConceptCase) was written supporting the move towards a government wide standardized source control solution and makes a case for GC/Code.
+2. A [wiki page](https://wiki.gccollab.ca/GCCode/ConceptCase) was written supporting the move towards a government wide standardized source control solution and makes a case for GC/Code.
 The proposed initiative from the article is an integration of GC/Code within the GCTools suite
 3. The Government of Canada Open Source Advisory Board started writing a [business case](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_Tools/gc-source-code-repo.md) for a Source Code Platform to enable central hosting and sharing of source code.
 
@@ -57,7 +57,7 @@ A number of departments are already storing a large amount of source code on GC/
 
 ## Business case
 
-To bring [GC/Code](https://GC/Code.ssc-spc.gc.ca) as an officially supported source control solution for the Government of Canada's developer community.
+To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported source control solution for the Government of Canada's developer community.
 
 ### Improved Feature Support
 
