@@ -132,3 +132,5 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | DFO | Diana McHugh | Stock Assessment Biologist |
 | ESDC | Josée Paquette | Programmer Analyst |
 | ESDC | Gabriel Cossette | Senior Advisor |
+| ESDC | Martin Mondor | Director, Strategy, Architecture and Business Relationships |
+| ESDC | Michael Murphy | Project Portfolio Mgmt |
