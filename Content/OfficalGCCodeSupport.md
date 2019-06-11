@@ -63,10 +63,10 @@ To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported sour
 
 With the current (as is) configuration of GC/Code, there are a few additional features that could be enabled to increase the viability of the tool:
 
-* **[Pages](https://about.gitlab.com/product/pages/)** - To host documents and guides related to software development, and even static websites including ones with GoC official theme.
+* **[Pages](https://about.gitlab.com/product/pages/)** - To host documents and guides on the software in development, and even static websites including ones with GoC official theme.
 * **Shared [Runners](https://docs.gitlab.com/runner/)** - For deployment directly to SSC infrastructure to manage production and development environments.
 
-With the tool exposed to the internet, there are a few other features that could be leveraged.
+With the tool exposed to the internet, there are a few other features that could be leveraged:
 
 * **[Runners](https://docs.gitlab.com/runner/)** - For deployment to cloud infrastructure to manage production and development environments.
 * **3rd Party [Integrations](https://docs.gitlab.com/ce/integration/)** - To add a variety of services to projects.
