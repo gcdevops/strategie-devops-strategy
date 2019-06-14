@@ -17,14 +17,14 @@ The use of source code version control is indeed a foundational tool for softwar
 However, as IT infrastructure, environments and processes become more complex and abstract, new tools and roles are emerging. Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application, not only through the coding phase.
 In order to properly leverage this modern approach, a decentralized version control system with collaborative capabilities is vital.
 
-Many opportunities present themselves for individual departments (reference the [ESDC Development Community's GC Code Recommendation article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation)), though for the Government of Canada as a whole as well.
+Many opportunities present themselves for individual departments (reference the [ESDC Development Community's GC Code Recommendation article](https://github.com/esdc-edsc/Welcome/blob/master/Recommendations/GCcode.md)), though for the Government of Canada as a whole as well.
 With initiatives such as the OneGov movement and the GCTools from TBS, having a collaborative tool with powerful automation features available would deliver great benefits to our development communities, who are increasingly responsible for ensuring the delivery of modern services to Canadians.
 By providing a common place to develop and share development projects and solutions, there is an exceptional opportunity to reuse the same platform across departments in most cases.
 Presently many redundancies exist within departments as they each host and support local instances of varying source control solutions.
 
 ## Existing literature
 
-1. ESDC's Developer Community has written an [article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GC/Code as their preferred solution for a standardized source control.
+1. ESDC's Developer Community has written an [article](https://github.com/esdc-edsc/Welcome/blob/master/Recommendations/GCcode.md) promoting GC/Code as their preferred solution for a standardized source control.
 The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada
 2. A [wiki page](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standardized source control solution and makes a case for GC/Code.
 The proposed initiative from the article is an integration of GC/Code within the GCTools suite
