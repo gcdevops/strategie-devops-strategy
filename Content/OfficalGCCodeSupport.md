@@ -40,8 +40,9 @@ A number of departments are already storing a large amount of source code on GC/
 
 ### GC/Code Stats
 
-**As of May 29th, 2019** GC/Code has a record of:
-<!-- not all stats may be needed for this, but listing them all for now -->
+As of May 2019, GC/Code has a record of ≈3600 projects and ≈3000 users (350+ being from ESDC) from 50 GC organizations, with more than 17k issues and 8k merge requests having been created.
+
+<!-- 
 * 3,614 projects
 * 2,998 users
 * 2,996 active users
@@ -54,6 +55,7 @@ A number of departments are already storing a large amount of source code on GC/
 * 394 snippets
 * 300 SSH Keys
 * 50 distinct email domains (aka GC Organizations)
+ -->
 
 ## Business case
 
@@ -63,14 +65,14 @@ To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported sour
 
 With the current (as is) configuration of GC/Code, there are a few additional features that could be enabled to increase the viability of the tool:
 
-* **[Pages](https://about.gitlab.com/product/pages/)** - To host documents and guides on the software in development, and even static websites including ones with GoC official theme.
-* **Shared [Runners](https://docs.gitlab.com/runner/)** - For deployment directly to SSC infrastructure to manage production and development environments.
+* **[Pages](https://about.gitlab.com/product/pages/)** – To host documents and guides on the software in development, and even static websites including ones with GoC official theme.
+* **[Shared Runners](https://docs.gitlab.com/runner/)** – For deployment directly to SSC infrastructure to manage production and development environments.
 
 With the tool exposed to the internet, there are a few other features that could be leveraged:
 
-* **[Runners](https://docs.gitlab.com/runner/)** - For deployment to cloud infrastructure to manage production and development environments.
-* **3rd Party [Integrations](https://docs.gitlab.com/ce/integration/)** - To add a variety of services to projects.
-* **[Repository mirroring](https://docs.gitlab.com/ce/workflow/repository_mirroring.html)** - For multi-government and citizen collaboration.
+* **[Runners](https://docs.gitlab.com/runner/)** – For deployment to cloud infrastructure to manage production and development environments.
+* **[3rd Party Integrations](https://docs.gitlab.com/ce/integration/)** – To add a variety of services to projects.
+* **[Repository mirroring](https://docs.gitlab.com/ce/workflow/repository_mirroring.html)** – For multi-government and citizen collaboration.
 
 With funding for the [GitLab Enterprise Edition (EE)](https://gitlab.com/gitlab-org/gitlab-ee), even more [features](https://about.gitlab.com/pricing/self-managed/feature-comparison/) could be available.
 
@@ -78,29 +80,51 @@ With funding for the [GitLab Enterprise Edition (EE)](https://gitlab.com/gitlab-
 
 There are arguments to support the adoption of GitHub over GC/Code. Mainly:
 
-* **Leveraging the GitHub's infrastructure**
+* **Leveraging the GitHub's infrastructure**<br>
 The GC will not be able to compete with GitHub's resources and its ability to stay current, so it would be best to use GitHub from the get go and benefit from its sustainability capability.
-* **Work in complete openness**
+* **Work in complete openness**<br>
 GitHub allows GC employees to work in complete openness with the rest of the world, turning repositories private only when needed.
 
 However, this proposal counters these arguments to the favour of GC/Code for the following reasons:
 
-* **Increase comfort level to openness**
+* **Increase comfort level to openness**<br>
 Some GC employees and IT Security personnel are reluctant to use GitHub due to security risks (e.g.: [accidently adding sensitive information like API keys in the repos](https://www.theregister.co.uk/2018/02/07/uber_quit_github_for_custom_code_after_2016_data_breach/)).
 Using GC/Code is expected to augment the GC developer's community best practices around source control and, as such, increase assurance around management and IT Security personnel for open source project meant to be released to the public.
-* **Vendor lock-in risk management**
+* **Vendor lock-in risk management**<br>
 GitHub roadmap is determined based on industry funding, not by the GC's interests. Having our own internal instance reduces vendor lock-in by allowing GitHub repositories a second home.
-* **Potential Cost Savings**
-Although a more fullsome cost evaluation should be performed when this proposal is adopted, it is believed that maintaining an internal instance would result in cost savings due to the requirement to host private repositories at the GC level.
-* **Contribute to [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/)**
+* **Potential Cost Savings**<br>
+Although a more fulsome cost evaluation should be performed when this proposal is adopted, it is believed that maintaining an internal instance would result in cost savings due to the requirement to host private repositories at the GC level.
+* **Contribute to [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/)**<br>
 Having a hosted version of GitLab allows the GC to contribute more directly to the GitLab open source project.
 
-## Potential Funding Options
+## Potential Scenarios
 
-SSC and PSPC-Digital Services Branch are two Departments mandated with providing these types of services to other Government Departments, however both SSC and PSPC-DSB exist within a cost recovery funding model. In order to move forward on this recommendation, it is likely that we will need to identify Departments interested in providing resources to support this recommendation. Below are some potential options:
+### Owner
 
-* Each department which leverages GC/Code provides one employee who is responsible one day a week to contribute towards the maintenance and constant improvement of the GitLab instance
-* A flat fee per user per department is charged to those departments using the service
+In order to move forward with this recommendation, an owner interested in evolving the platform needs to be found. Potential candidates could be:
+
+1. **SSC CIO** – Application Development and Database Administration team (current owner);
+2. **TBS GCTools** – Under the Open Accessible Digital Workspace project;
+3. **PSPC Digital Services** – Due to mandate in providing these types of services; and
+4. **ESDC IIT** – As ESDC's Development Community standardized on GC/Code.
+
+### Business Model
+
+A sustainable business model also needs to be determined, which would most likely involve user departments to contribute to the platform in some way, e.g.:
+
+* **In-kind** – Each department provides 1 employee who is responsible 1 day/week to contribute toward the maintenance and constant improvement of the GitLab instance; and
+* **Funding** – A flat fee per user per department is charged to those departments using the service.
+
+### Costing
+
+Finally, the cost required for the owner to host, support and evolve the platform will be dependent upon factors such as:
+
+* **Support Level** – E.g. Period, Response time;
+* **Hosting location** – SSC Data Centre or Public Cloud Provider;
+* **Platform** – GitLab free or paid edition, or other options such as GitHub Enterprise; and
+* **Maintenance** – E.g. Supported integrations, Frequency of updates, Monitoring.
+
+All these potential scenarios will be further investigated once the proposal has been adopted.
 
 ## Supporting members
 
