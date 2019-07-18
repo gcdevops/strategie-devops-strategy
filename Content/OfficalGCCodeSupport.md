@@ -98,7 +98,7 @@ We recommend that GC/Code becomes the official internal version control platform
 
 We anticipate that the following work will be needed:
 
-1. Kick off discussions with SSC CIO ADDA (Application Development and Database Administration) team responsible for the current service;
+1. Commence discussions with SSC CIO ADDA (Application Development and Database Administration) team responsible for the current service;
 2. Determine and plan evolution of the service (e.g. business model, service levels, hosting environment, additional features);
 3. Present to relevant committees;
 4. Set funding agreement(s) with ESDC and other departments as required;
