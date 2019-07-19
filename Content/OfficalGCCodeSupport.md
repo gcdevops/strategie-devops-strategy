@@ -103,7 +103,7 @@ Having a hosted version of GitLab allows the GC to contribute more directly to t
 
 In order to move forward with this recommendation, an owner interested in evolving the platform needs to be found. Potential candidates could be:
 
-1. **SSC CIO** – Application Development and Database Administration team (current owner);
+1. **SSC CIO** – Business Informatics Solutions team (current owner);
 2. **TBS GCTools** – Under the Open Accessible Digital Workspace project;
 3. **PSPC Digital Services** – Due to mandate in providing these types of services; and
 4. **ESDC IIT** – As ESDC's Development Community standardized on GC/Code.
@@ -158,3 +158,4 @@ All these potential scenarios will be further investigated once the proposal has
 | ESDC | Gabriel Cossette | Senior Advisor |
 | ESDC | Martin Mondor | Director of Strategy, Architecture and Business Relationships |
 | ESDC | Michael Murphy | Director of Project Portfolio Management |
+| SSC | John Bain | Technical Advisor - Enterprise Architecture
