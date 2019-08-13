@@ -60,15 +60,25 @@ To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported sour
 
 #### IITB
 
-* Centralized collaboration service to provide to the business for source code and tasks, resulting in stronger relationship between IT and business
-* New services to offer to developers such as static code analysis providing feedback on, for instance, unsecure practises (e.g. hard coded passwords, non-parameterized queries)
+* Strengthen relationship between IT and business through a centralized collaboration platform
+* Improve the quality and security of code with automated testing (e.g. static code analysis to detect hard coded passwords)
+* Accelerate the rate of application development and deployments through a modern tool (in constant evolution)
+* Easily find and reuse source code from other projects, including from other departments
+* Receive notifications and send actions from instant messaging platform (e.g. Slack)
+* Obtain metrics/statistics for reporting and continuous improvement
+* Edit files without leaving the browser
 
 #### Existing Development Projects (e.g. Old Age Security)
 
-* Advantages of leveraging a common platform instead of different systems
-  * Easier learning for employees
-  * Many features integrated in one platform (source code, issues/tasks, tests, etc.)
-* Better code quality and collaboration by developing in the open, thereby reducing overall risk
+* Benefit from a common development platform:
+  * Leverage functionalities covering the full development lifecycle from a single tool (code, issues/tasks, tests, etc.)
+  * Facilitate adoption/training by staff
+  * Centralize conversations (instead of using emails)
+* Enhance planning of features development through a single view
+* Track time spent on project tasks
+* Ensure accountability through logging of changes and incidents
+* Publish webpages related to project (with official GC look and feel as an option)
+* Improve code quality and collaboration by developing in the open, thereby reducing overall risk
 
 ### Additional Features
 
