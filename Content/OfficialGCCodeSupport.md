@@ -71,7 +71,7 @@ To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported sour
 #### Existing Development Projects (e.g. Old Age Security)
 
 * Benefit from a common development platform:
-  * Leverage functionalities covering the full development lifecycle from a single tool (code, issues/tasks, tests, etc.)
+  * Leverage functionalities covering the full development lifecycle from a single tool (code, issues/tasks, tests, etc.), in particular the automation of builds, tests, and deployments.
   * Facilitate adoption/training by staff
   * Centralize conversations (instead of using emails)
 * Enhance planning of features development through a single view
