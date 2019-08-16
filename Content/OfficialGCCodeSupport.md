@@ -28,7 +28,7 @@ Presently, many redundancies exist within departments as they each host and supp
 2. A [wiki page](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standardized source control solution and makes a case for GC/Code. The proposed initiative from the article is an integration of GC/Code within the GCTools suite.
 3. The Government of Canada Open Source Advisory Board started writing a [business case](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_Tools/gc-source-code-repo.md) for a Source Code Platform to enable central hosting and sharing of source code.
 
-## Situation
+## Current State
 
 GC/Code is an instance of [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/), free open source software (FOSS) under the MIT license, hosted by Shared Services Canada (SSC).
 GC/Code is currently unofficially supported by SSC with a "best effort" policy. It runs on production servers and has backups and receives semi-regular updates. GC/Code is currently only available within the GoC Intranet, which blocks the solution from access to 3rd party add-ons and some native features. A number of departments are already storing a large amount of source code on GC/Code.
@@ -56,20 +56,44 @@ As of May 2019, GC/Code has a record of ≈3600 projects and ≈3000 users (350+
 
 To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported source control solution for the Government of Canada's developer community.
 
-### Improved Feature Support
+### Benefits to ESDC Business Lines
 
-With the current (as is) configuration of GC/Code, there are a few additional features that could be enabled to increase the viability of the tool:
+#### IITB
+
+* Strengthen relationship between IT and business through a centralized collaboration platform
+* Improve the quality and security of code with automated testing (e.g. static code analysis to detect hard coded passwords)
+* Accelerate the rate of application development and deployments through a modern tool (in constant evolution)
+* Easily find and reuse source code from other projects, including from other departments
+* Receive notifications and send actions from instant messaging platform (e.g. Slack)
+* Obtain metrics/statistics for reporting and continuous improvement
+* Edit files without leaving the browser
+
+#### Existing Development Projects (e.g. Old Age Security)
+
+* Benefit from a common development platform:
+  * Leverage functionalities covering the full development lifecycle from a single tool (code, issues/tasks, tests, etc.)
+  * Facilitate adoption/training by staff
+  * Centralize conversations (instead of using emails)
+* Enhance planning of features development through a single view
+* Track time spent on project tasks
+* Ensure accountability through logging of changes and incidents
+* Publish webpages related to project (with official GC look and feel as an option)
+* Improve code quality and collaboration by developing in the open, thereby reducing overall risk
+
+### Additional Features
+
+With the current (as is) configuration of GC/Code, additional features could be enabled to increase the viability of the tool:
 
 * **[Pages](https://about.gitlab.com/product/pages/)** – To host documents and guides on the software in development, and even static websites including ones with GoC official theme.
 * **[Internal Runners](https://docs.gitlab.com/runner/)** – For deployment directly to SSC infrastructure to manage production and development environments.
 
-With the tool exposed to the internet, there are a few other features that could be leveraged:
+With the tool exposed to the internet, even more features could be leveraged:
 
 * **[Cloud Runners](https://docs.gitlab.com/runner/)** – For deployment to cloud infrastructure to manage production and development environments.
 * **[3rd Party Integrations](https://docs.gitlab.com/ce/integration/)** – To add a variety of services to projects.
 * **[Repository mirroring](https://docs.gitlab.com/ce/workflow/repository_mirroring.html)** – For multi-government and citizen collaboration.
 
-With funding for the [GitLab Enterprise Edition (EE)](https://gitlab.com/gitlab-org/gitlab-ee), even more [features](https://about.gitlab.com/pricing/self-managed/feature-comparison/) could be available.
+With funding for the [GitLab Enterprise Edition (EE)](https://gitlab.com/gitlab-org/gitlab-ee), even more [advanced features](https://about.gitlab.com/pricing/self-managed/feature-comparison/) could be made available.
 
 ### Why GC/Code and not GitHub?
 
