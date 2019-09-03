@@ -70,6 +70,19 @@ To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported sour
 
 #### Existing Development Projects (e.g. Old Age Security)
 
+* Reduce costs of version control systems 
+* Off-load maintenance responsibilities to centralized Government of Canada resources
+* Enable static code anaylsis to detect and promote 
+
+  * Better security, though;
+    * Hard-coded passwords
+    * Non-parametized SQL queries
+    * Notify users of depenecies with known security vulnerabilities
+  * Better development practicesm, through;
+    * Bad coding practice (unused variables [clutered namespaces])
+    * Flag lack of automated testing code coverage
+    * Identify ineffectient code
+
 * Benefit from a common development platform:
   * Leverage functionalities covering the full development lifecycle from a single tool (code, issues/tasks, tests, etc.), in particular the automation of builds, tests, and deployments.
   * Facilitate adoption/training by staff
