@@ -6,13 +6,13 @@ To recommend the adoption of a decentralized version control system for all IT p
 
 ## Context
 
-The latest updates to the [Directive on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249) have clearly identified 3 main requirements changes related to source code management in the GoC:
+The latest updates to the [Directive on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249) have clearly identified 3 main requirement changes related to source code management in the GoC:
 
 1. If a custom-built application is the appropriate option, **by default any source code written by the government must be released** in an open format via Government of Canada websites and services designated by the Treasury Board of Canada Secretariat [(C.2.3.8.3)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8.3);
-2. All source code must be released under an appropriate **open source software license** [(C.2.3.8.4)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8.4);
+2. All source code must be released under an appropriate **open source software licence** [(C.2.3.8.4)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8.4);
 3. Share code **publicly** when appropriate, and when not, share **within** the Government of Canada [(C.2.3.9.5)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.9.5).
 
-The use of source code version control is indeed a foundational tool for software development but each department currently manages its own source code independently. Moreso, there are even instances where multiple methods and solutions are in place to manage source code versioning within a single organisation.
+The use of source code version control is indeed a foundational tool for software development but each department currently manages its own source code independently. More so, there are even instances where multiple methods and solutions are in place to manage source code versioning within a single organization.
 
 However, as IT infrastructure, environments and processes become more complex and abstract, new tools and roles are emerging. Information Technology world leaders and best practices promote the use of automation and development tools throughout the lifecycle of an application, not only through the coding phase.
 In order to properly leverage this modern approach, a decentralized version control system with collaborative capabilities is vital.
@@ -25,12 +25,12 @@ Presently, many redundancies exist within departments as they each host and supp
 ## Existing literature
 
 1. ESDC's Developer Community has written an [article](https://github.com/esdc-edsc/Welcome/blob/master/Recommendations/GCcode.md) providing guidelines on how to manage ESDC's projects in GC/Code.
-2. A [wiki page](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standardized source control solution and makes a case for GC/Code. The proposed initiative from the article is an integration of GC/Code within the GCTools suite.
+2. A [wiki page](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move toward a government-wide standardized source control solution and makes a case for GC/Code. The proposed initiative from the article is an integration of GC/Code within the GCTools suite.
 3. The Government of Canada Open Source Advisory Board started writing a [business case](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_Tools/gc-source-code-repo.md) for a Source Code Platform to enable central hosting and sharing of source code.
 
 ## Current State
 
-GC/Code is an instance of [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/), free open source software (FOSS) under the MIT license, hosted by Shared Services Canada (SSC).
+GC/Code is an instance of [GitLab Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/), free open source software (FOSS) under the MIT licence, hosted by Shared Services Canada (SSC).
 GC/Code is currently unofficially supported by SSC with a "best effort" policy. It runs on production servers and has backups and receives semi-regular updates. GC/Code is currently only available within the GoC Intranet, which blocks the solution from access to 3rd party add-ons and some native features. A number of departments are already storing a large amount of source code on GC/Code.
 
 ### GC/Code Stats
@@ -70,6 +70,15 @@ To bring [GC/Code](https://gccode.ssc-spc.gc.ca) as an officially supported sour
 
 #### Existing Development Projects (e.g. Old Age Security)
 
+* Reduce costs of version control systems
+* Off-load maintenance responsibilities to centralized GC resources
+* Enable static code analysis to promote better security and development practises, through detection of:
+  * Hard-coded passwords
+  * Non-parametized SQL queries
+  * Dependencies with known security vulnerabilities
+  * Bad coding practice (unused variables [clutered namespaces])
+  * Lack of automated testing code coverage
+  * Inefficient code
 * Benefit from a common development platform:
   * Leverage functionalities covering the full development lifecycle from a single tool (code, issues/tasks, tests, etc.), in particular the automation of builds, tests, and deployments.
   * Facilitate adoption/training by staff
@@ -99,7 +108,7 @@ With funding for the [GitLab Enterprise Edition (EE)](https://gitlab.com/gitlab-
 
 There are arguments to support the adoption of GitHub over GC/Code. Mainly:
 
-* **Leveraging the GitHub's infrastructure**  
+* **Leveraging GitHub's infrastructure**  
 The GC will not be able to compete with GitHub's resources and its ability to stay current, so it would be best to use GitHub from the get go and benefit from its sustainability capability.
 * **Work in complete openness**  
 GitHub allows GC employees to work in complete openness with the rest of the world, turning repositories private only when needed.
@@ -107,7 +116,7 @@ GitHub allows GC employees to work in complete openness with the rest of the wor
 However, this proposal counters these arguments to the favour of GC/Code for the following reasons:
 
 * **Increase comfort level to openness**  
-Some GC employees and IT Security personnel are reluctant to use GitHub due to security risks (e.g.: [accidently adding sensitive information like API keys in the repos](https://www.theregister.co.uk/2018/02/07/uber_quit_github_for_custom_code_after_2016_data_breach/)).
+Some GC employees and IT Security personnel are reluctant to use GitHub due to security risks (e.g.: [accidentally adding sensitive information like API keys in the repos](https://www.theregister.co.uk/2018/02/07/uber_quit_github_for_custom_code_after_2016_data_breach/)).
 Using GC/Code is expected to augment the GC developer's community best practices around source control and, as such, increase assurance around management and IT Security personnel for open source project meant to be released to the public.
 * **Vendor lock-in risk management**  
 GitHub roadmap is determined based on industry funding, not by the GC's interests. Having our own internal instance running on open source software reduces vendor lock-in by allowing GitHub repositories a second home.
