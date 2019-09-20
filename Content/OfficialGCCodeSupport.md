@@ -142,7 +142,7 @@ We anticipate that the following work will be needed:
 | SSC | Mathieu Fortin | Director, Partner Enterprise Architecture Liaison |
 | IRCC | Luc Schulz | Business Solutions |
 | TBS | Roy Saavedra | Research Analyst |
-| TC | Vivian Nobrega | Technical Advisor |
+| TBS | Vivian Nobrega | Open Source Advocate for Government of Canada |
 | CRA | Nikhil Sebastian | A/IT Specialist |
 | PSPC | Steve Trotman | Programmer Analyst |
 | TC | Stephen Bakalian | Programmer Analyst |
